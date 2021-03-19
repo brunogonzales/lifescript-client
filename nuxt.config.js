@@ -1,4 +1,5 @@
 export default {
+  target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'flexdo',
@@ -43,7 +44,7 @@ export default {
   ],
 
   strapi: {
-    entities: ['todos']
+    entities: ['todos'],
   },
 
   toast: {
