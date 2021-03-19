@@ -1,0 +1,22 @@
+{
+  "name": "flexdo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/strapi": "^0.3.0",
+    "@nuxtjs/toast": "^3.3.1",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "vuejs-datepicker": "^1.6.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/date-fns": "^1.4.3",
+    "@nuxtjs/tailwindcss": "^3.4.2"
+  }
+}
