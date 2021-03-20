@@ -1,4 +1,4 @@
-# flexdo
+# Lifescript client
 
 ## Build Setup
 
